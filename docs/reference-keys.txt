@@ -2,6 +2,7 @@ introduction-to-qgis
 about
 license-and-permissions
 testing
+whats-next
 training-environment
 foss4g-demo
 väliotsikko

@@ -51,3 +51,4 @@ The materials are licensed under [CC BY-ND 4.0](https://creativecommons.org/lice
 - this is a test page
 - write some markdown
 - do something else
+- remember to test locally

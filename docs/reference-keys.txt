@@ -3,3 +3,5 @@ about
 license-and-permissions
 testing
 training-environment
+foss4g-demo
+väliotsikko
